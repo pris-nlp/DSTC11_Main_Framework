@@ -1,0 +1,2 @@
+ACC,ARI,NMI,SC,dataset,method,seed,train_batch_size,learning_rate,K
+51.45228215767634,38.22500388163478,59.116356388787715,0.17402266,DSTC11_development,SCCL,0,128,1e-05,22

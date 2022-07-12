@@ -1,0 +1,6 @@
+{
+ "Dialogues Path": "dialogues.jsonl",
+ "RunID": "kmeans_all-mpnet-base-v2",
+ "Dataset": "dstc11/development",
+ "Experiments Path": "results/intent-clustering-baselines/development/kmeans_all-mpnet-base-v2"
+}
